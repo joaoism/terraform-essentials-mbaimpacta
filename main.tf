@@ -10,8 +10,7 @@ terraform {
 provider "google" {
   version = "3.5.0"
 
-
-  project = "ismael-mbaimpacta-turma4"
+  project =  "ismael-cloudautomation"
   region  = "us-central1"
   zone    = "us-central1-c"
 }
